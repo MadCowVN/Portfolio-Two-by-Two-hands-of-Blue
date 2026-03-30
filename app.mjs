@@ -63,7 +63,7 @@ try {
     console.log("Base64 error:", e.message);
 }
 
-// 3. Decode ROT (tìm 'e' phổ biến nhất)
+// 3. Decode ROT
 if (rotText) {
     console.log("\n Decoding ROT...");
     
